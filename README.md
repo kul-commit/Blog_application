@@ -8,3 +8,5 @@ Update Blog: Edit and update your blogs as your content evolves.
 View Other User Blogs: Explore and read blogs published by other users.
 
 MERN (MongoDB, Express, React, Node.js)
+ many more features are coming
+ 
